@@ -3,3 +3,4 @@
 # best effort to handpick ads
 seznam.cz
 e5.cz
+tyden.cz
