@@ -2,3 +2,4 @@
 # last update 2021-01-29
 # best effort to handpick ads
 seznam.cz
+e5.cz
