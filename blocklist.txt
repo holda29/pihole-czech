@@ -1,6 +1,8 @@
 # Holda Pihole blacklist
 # last update 2021-01-29
 # best effort to handpick ads
+# WIP
 seznam.cz
 e5.cz
 tyden.cz
+1gr.cz
