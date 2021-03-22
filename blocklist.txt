@@ -7,3 +7,4 @@ e5.cz
 a.sdn.cz
 c.seznam.cz
 c-ng.seznam.cz
+img4.cz
