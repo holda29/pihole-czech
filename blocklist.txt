@@ -2,10 +2,8 @@
 # last update 2021-03-15
 # best effort to handpick ads
 # WIP
-e5.cz
 1gr.cz
 a.sdn.cz
 c.seznam.cz
 c-ng.seznam.cz
 img4.cz
-e5.sk
