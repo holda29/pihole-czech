@@ -75,3 +75,16 @@ www.richmedia.cz
 zdstatic.speedtest.net
 iczc.cz
 performax.cz
+events.hotjar.io
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+widgets.pinterest.com
+business-api.tiktok.com
+adtech.yahooinc.com
+metrika.yandex.ru
+appmetrica.yandex.ru
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
